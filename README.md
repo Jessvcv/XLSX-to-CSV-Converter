@@ -116,7 +116,5 @@ REQUIRED_COLUMNS = [
 - Integrate database export (e.g., PostgreSQL, Snowflake)
 
 ### 👩‍💻 Author
-- Jessica Tran
-
 Jessica Tran
-Computer Science / Data Science
+
