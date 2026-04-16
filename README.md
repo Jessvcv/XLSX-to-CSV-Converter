@@ -2,13 +2,13 @@
 - A Streamlit-based data cleaning tool designed to standardize messy Excel donation data into a clean, structured format ready for analysis or data warehousing.
 
 ### 🚀 Overview
-- The Donation Data Cleaner allows users to upload Excel workbooks containing donation records across multiple sheets. It automatically:
-
-Detects headers (even if misplaced)
-Maps inconsistent column names
-Cleans and standardizes data
-Validates required fields
-Splits output into clean and rejected datasets
+- The Donation Data Cleaner allows users to upload Excel workbooks containing donation records across multiple sheets.
+- It automatically:
+- Detects headers (even if misplaced)
+- Maps inconsistent column names
+- Cleans and standardizes data
+- Validates required fields
+- Splits output into clean and rejected datasets
 
 This tool is especially useful for nonprofits, analysts, or data engineers dealing with inconsistent donor data formats.
 
